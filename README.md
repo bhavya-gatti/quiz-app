@@ -19,9 +19,6 @@ An interactive web-based Quiz App built using HTML, CSS, and JavaScript. This ap
 
 ## 📸 Screenshots
 
-![Home Page](screenshots/home.png)
-![Quiz Page](screenshots/quiz.png)
-![Result Page](screenshots/result.png)
 
 ## 🛠️ How to Run
 
